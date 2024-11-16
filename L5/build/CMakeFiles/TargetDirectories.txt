@@ -1,0 +1,3 @@
+C:/Users/tevel/OneDrive/coding/Reposit/CPPSQL/L5/build/CMakeFiles/test_sql.dir
+C:/Users/tevel/OneDrive/coding/Reposit/CPPSQL/L5/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/tevel/OneDrive/coding/Reposit/CPPSQL/L5/build/CMakeFiles/ZERO_CHECK.dir

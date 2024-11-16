@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.11) 
+project(test_sql) 
+set(CMAKE_CXX_STANDARD 20) 
+find_package(libpqxx CONFIG REQUIRED) 
+add_executable(${PROJECT_NAME} main.cpp) 
+target_link_libraries(${PROJECT_NAME} PRIVATE libpqxx::pqxx)
