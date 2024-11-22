@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\tevel\OneDrive\coding\Reposit\CPPSQL\L6\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\tevel\OneDrive\coding\Reposit\CPPSQL\L6\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F05DDF12-42F8-392B-B738-C5751D5214E5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

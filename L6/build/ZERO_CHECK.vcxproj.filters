@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\tevel\OneDrive\coding\Reposit\CPPSQL\L6\build\CMakeFiles\ce142344d40efc819d9cc9b4621a22e5\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A6A0E4BF-9917-35A4-89FD-D224FED82E8E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

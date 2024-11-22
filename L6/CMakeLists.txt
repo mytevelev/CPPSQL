@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.11) 
+project(test_wt) 
+set(CMAKE_CXX_STANDARD 20) 
+find_package(PostgreSQL REQUIRED) 
+find_package(wt CONFIG REQUIRED) 
+add_executable(${PROJECT_NAME} main.cpp) 
+target_link_libraries(${PROJECT_NAME} PRIVATE PostgreSQL::PostgreSQL Wt::Wt Wt::Dbo Wt::HTTP Wt::DboPostgres) 
